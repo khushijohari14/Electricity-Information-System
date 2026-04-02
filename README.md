@@ -117,8 +117,7 @@ EIS/
 ├── 📄 consumer.php             # Consumer dashboard
 ├── 📄 logout.php               # Session destroy + redirect
 ├── 📄 search.php               # AJAX search API
-├── 📄 .gitignore
-└── 📄 README.md
+
 ```
 
 ---
@@ -191,10 +190,6 @@ Register Consumer → Assign Meter → Enter Reading → Generate Bill → Recor
 | **Student** | Khushi Johari |
 | **Registration No.** | 12301997 |
 | **University** | Lovely Professional University |
-| **Course** | B.Tech — Computer Science & Engineering |
-| **Subject** | Software Engineering |
-| **Submitted To** | Deepinder Kaur (29599) |
-
 ---
 
 <div align="center">
